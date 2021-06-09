@@ -1,0 +1,11 @@
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.csproj.AssemblyReference.cache
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.csproj.GenerateResource.cache
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.csproj.CoreCompileInputs.cache
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.csproj.CopyComplete
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.Form1.resources
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\bin\Debug\sanal_sunucu.exe.config
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\bin\Debug\sanal_sunucu.exe
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\bin\Debug\sanal_sunucu.pdb
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.Properties.Resources.resources
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.exe
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\sanal_sunucu.pdb

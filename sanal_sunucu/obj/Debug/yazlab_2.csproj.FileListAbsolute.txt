@@ -1,0 +1,53 @@
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe.config
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\bin\Debug\yazlab_2.pdb
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csprojAssemblyReference.cache
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Form1.resources
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Properties.Resources.resources
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.GenerateResource.cache
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.CoreCompileInputs.cache
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.exe
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.pdb
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\evren\source\repos\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe.config
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\bin\Debug\yazlab_2.pdb
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Form1.resources
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\obj\Debug\yazlab_2.exe
+C:\Users\lenovo\Desktop\yazlab_2\yazlab_2\yazlab_2\obj\Debug\yazlab_2.pdb
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Form1.resources
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.exe
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.pdb
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe.config
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\bin\Debug\yazlab_2.pdb
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe.config
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\bin\Debug\yazlab_2.exe
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\bin\Debug\yazlab_2.pdb
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Form1.resources
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.csproj.CopyComplete
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.exe
+C:\Users\lenovo\Desktop\yazlab2-azEkleme\yazlab2-azEkleme\yazlab_2\yazlab_2\obj\Debug\yazlab_2.pdb
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\bin\Debug\yazlab_2.exe.config
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\bin\Debug\yazlab_2.exe
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\bin\Debug\yazlab_2.pdb
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.csproj.AssemblyReference.cache
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.Form1.resources
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.Properties.Resources.resources
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.csproj.GenerateResource.cache
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.csproj.CoreCompileInputs.cache
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.csproj.CopyComplete
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.exe
+C:\Users\evren\Desktop\Sanal Sunucu Projesi\yazlab_2\obj\Debug\yazlab_2.pdb
