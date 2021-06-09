@@ -1,5 +1,5 @@
 # Virtual Server Project
-<h1> SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ</h1>
+<h1> Sunucu İstek Yoğunluğunun Multithread İle Kontrolü</h1>
 
 <p>Projemiz, en başta bir 10.000 kapasiteli bir Ana Sunucu (Main Thread) ve 2 adet 5.000 kapasiteli Alt Sunuculardan (Sub Thread) oluşmaktadır. <br><br>
 Projemizde, 10.000 kapasiteli Ana Sunucumuza (Main Thread) dışarıdan 500 milisaniyede bir 1 ile 100 arasında rastgele sayı üretilerek istek gelmektedir. 200 milisaniyede bir de 1 ile 50 arasında rastgele sayı üretilerek sunucuda bekleyen istekler cevaplandırılır.<br><br>
